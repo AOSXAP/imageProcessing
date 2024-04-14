@@ -1,3 +1,3 @@
 mkdir bin
-mkdir /imgs/results
+mkdir imgs/results
 g++ -Iheaders demo.cpp ./src/*.cpp -o ./bin/main
