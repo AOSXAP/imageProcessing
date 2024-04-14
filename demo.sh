@@ -1,0 +1,1 @@
+g++ -Iheaders demo.cpp ./src/*.cpp -o ./bin/main
