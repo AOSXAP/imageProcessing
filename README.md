@@ -6,12 +6,12 @@ An image processing library that it's capable of applying brightness, gamma and 
 ## Demo
 
 ### Demo bash script
-```
+```sh
 ./demo.sh
 ```
 ### Compile with C++
 
-```
+```sh
 g++ -Iheaders ./src/*.cpp <yourfile>.cpp -o
 ```
 
